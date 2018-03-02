@@ -1,3 +1,4 @@
+// quotes library
 var quotes = [
   {qText : "Life is really simple, but we insist on making it complicated.",
   qFrom : "Confucius"},
